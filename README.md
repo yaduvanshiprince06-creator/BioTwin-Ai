@@ -107,3 +107,18 @@ Prototype documentation and submission materials are being prepared.
 15. Accessibility
 
 The repository is intended to be public. Required documents and demonstration links will be checked for accessibility before submission.
+
+16. System Architecture Diagram
+
+BioTwin AI follows a simple workflow to display simulated patient health and lifestyle measurements.
+
+Workflow:
+Patient Profile → Simulated Data → Python Processing (Pandas) → Streamlit Dashboard
+
+Architecture Diagram
+
+The architecture diagram PDF will be uploaded to this repository.
+
+File: "BioTwin_AI_Architecture_Diagram.pdf"
+
+Note: The current prototype uses simulated measurements. It does not include a trained AI/ML model or live sensor integration.
