@@ -119,6 +119,6 @@ Architecture Diagram
 
 The architecture diagram PDF will be uploaded to this repository.
 
-File: "BioTwin_AI_Architecture_Diagram.pdf"
+File: Digital_Twin_Architecture_Diagram.pdf
 
 Note: The current prototype uses simulated measurements. It does not include a trained AI/ML model or live sensor integration.
