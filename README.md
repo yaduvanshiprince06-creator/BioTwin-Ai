@@ -117,6 +117,6 @@ Patient Profile → Simulated Data → Python Processing (Pandas) → Streamlit 
 
 Architecture Diagram
 
-"View the Digital Twin Architecture Diagram" (./Digital%20Twin%20Architecture%20Diagram.pdf)
+"View the Digital Twin Architecture Diagram" ( https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/Digital%20Twin%20Architecture%20Diagram.pdf)
 
 Note: This prototype currently uses simulated data. It does not include a trained AI/ML model or live sensor integration.
