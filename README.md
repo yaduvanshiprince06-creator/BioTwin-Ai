@@ -110,15 +110,13 @@ The repository is intended to be public. Required documents and demonstration li
 
 16. System Architecture Diagram
 
-BioTwin AI follows a simple workflow to display simulated patient health and lifestyle measurements.
+BioTwin AI uses simulated patient data to demonstrate health and lifestyle monitoring.
 
 Workflow:
 Patient Profile → Simulated Data → Python Processing (Pandas) → Streamlit Dashboard
 
 Architecture Diagram
 
-The architecture diagram PDF will be uploaded to this repository.
+"View the Digital Twin Architecture Diagram" (./Digital%20Twin%20Architecture%20Diagram.pdf)
 
-File: Digital_Twin_Architecture_Diagram.pdf
-
-Note: The current prototype uses simulated measurements. It does not include a trained AI/ML model or live sensor integration.
+Note: This prototype currently uses simulated data. It does not include a trained AI/ML model or live sensor integration.
