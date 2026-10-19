@@ -123,4 +123,4 @@ Note: This prototype currently uses simulated data. It does not include a traine
 
 17. Presentation 
 
-DOC-20261019-WA0003.pdf
+View the presentation here ("https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/DOC-20261019-WA0003.pdf")
