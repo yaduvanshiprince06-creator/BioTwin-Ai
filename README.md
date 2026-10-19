@@ -48,9 +48,22 @@ The current implementation and any planned components should be clearly distingu
 
 8. Team Details
 
-- Team Name: To be added
-- Team Members: To be added
-- College: Amity University, Noida
+Project Title: BioTwin AI — Digital Twin for Personalized Health Monitoring
+
+Team Name: yaduvanshiprince06
+Team Leader: Prince Yadav
+Team Members:
+1. Prince Yadav — Team Leader
+2. Sumit Yadav
+3. Atharv Aggarwal
+4. Vishesh Shukla
+
+Institution: Amity University, Noida
+
+Healthcare Use Case: Sleep and Lifestyle Monitoring
+
+Project Description:
+BioTwin AI is a healthcare-focused digital twin prototype that brings together simulated patient measurements, including sleep duration, physical activity, heart rate, and blood glucose, in a single dashboard. The project aims to demonstrate how digital health data can support lifestyle monitoring and personalized insights.
 
 9. Demonstration Video
 
