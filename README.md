@@ -69,7 +69,17 @@ BioTwin AI is a healthcare-focused digital twin prototype that brings together s
 
 A 15–20-minute demonstration video will be added here after it is recorded and uploaded to YouTube as an unlisted video.
 
-Demo Link: Pending
+Demo Link:
+
+Live Demo
+
+Explore the deployed BioTwin AI prototype:
+
+Live Application: https://biotwin-ai-3uoqxjv3wbnagswfwj9ufn.streamlit.app/
+
+The prototype displays simulated patient measurements for sleep duration, physical activity, heart rate, and blood glucose.
+
+Note: This is an educational prototype, not a medical diagnostic system.
 
 10. Architecture Diagram
 
