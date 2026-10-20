@@ -84,7 +84,7 @@ The application displays simulated patient measurements for heart rate, blood gl
 
 A 15–20-minute demonstration video will be added after recording and uploading it to YouTube as an unlisted video.
 
-Demo Video: To be added.
+Demo Video: https://youtu.be/BQG0uGZ9TD0?si=NSkE6iRLH7cLZ2Gl
 
 12. Limitations and Safety
 
