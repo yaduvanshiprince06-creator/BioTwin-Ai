@@ -17,11 +17,11 @@ Digital Twin for Personalized Health Monitoring
 
 2. Project Overview
 
-BioTwin AI is a healthcare-focused digital twin prototype that demonstrates personalized health and lifestyle monitoring through a dashboard displaying simulated patient measurements. It brings selected health parameters together to help users explore health data and understand potential lifestyle patterns.
+BioTwin AI is a healthcare-focused digital twin prototype designed to demonstrate health and lifestyle monitoring through an interactive dashboard displaying simulated patient measurements. It combines selected health parameters in one interface to help users explore health data and understand potential lifestyle patterns.
 
 3. Problem Statement
 
-Health measurements can be difficult to interpret when viewed separately. A digital twin approach can combine multiple parameters in one dashboard, making it easier to explore changes in health and lifestyle data over time.
+Health measurements can be difficult to interpret when viewed separately. A digital twin approach can bring multiple parameters together in a single dashboard, making it easier to explore changes in health and lifestyle data.
 
 4. Healthcare Use Case
 
@@ -36,7 +36,7 @@ The current dashboard uses simulated patient data for demonstration purposes. It
 
 5. Proposed Solution
 
-BioTwin AI presents a digital representation of selected patient health parameters through an interactive dashboard. The current prototype demonstrates simulated measurements, while future development may introduce historical trend analysis, validated predictive models, and integration with wearable devices or health sensors.
+BioTwin AI presents a digital representation of selected patient health parameters through an interactive dashboard. The current prototype demonstrates simulated measurements. Future development could introduce historical trend analysis, validated predictive models, and integration with wearable devices or health sensors.
 
 6. Technical Stack
 
@@ -52,7 +52,7 @@ BioTwin AI presents a digital representation of selected patient health paramete
 
 The current implementation uses simulated patient measurements and does not include a trained AI/ML model. It demonstrates the presentation and monitoring of health-related parameters rather than making validated predictions.
 
-Future development may explore machine-learning models for lifestyle trend analysis, subject to suitable datasets, validation, and evaluation.
+Future development may explore machine-learning models for lifestyle trend analysis, subject to suitable datasets, validation, and performance evaluation.
 
 8. System Architecture
 
@@ -60,14 +60,14 @@ The current prototype follows this workflow:
 
 Patient Profile → Simulated Data Generation → Data Processing (Pandas) → Streamlit Dashboard → Health Parameter Visualization
 
-The architecture diagram illustrates the prototype workflow. Real-time sensor integration and trained predictive models remain potential future enhancements.
+The architecture diagram illustrates the prototype workflow. Real-time sensor integration and trained predictive models are potential future enhancements.
 
 Architecture Diagram:
 "View Digital Twin Architecture Diagram (PDF)" (https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/Digital%20Twin%20Architecture%20Diagram.pdf)
 
 9. Project Presentation
 
-The project presentation provides an overview of the problem statement, proposed solution, technical stack, system architecture, prototype, limitations, and future scope.
+The project presentation covers the problem statement, proposed solution, technical stack, system architecture, prototype, limitations, and future scope.
 
 Presentation:
 "View BioTwin AI Project Presentation (PDF)" (https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/BioTwin_AI_Project_Presentation.pdf)
@@ -82,26 +82,28 @@ The application displays simulated patient measurements for heart rate, blood gl
 
 11. Demonstration Video
 
-A 15–20-minute demonstration video link added uploaded to YouTube as an unlisted video.
+Watch the BioTwin AI demonstration to learn about the prototype, its functionality, technical implementation, and current limitations.
 
-Demo Video: https://youtu.be/UnLWRF5rv-0?si=hsaCnvFsmAnBRsif
+"Watch the BioTwin AI Demo on YouTube" (https://youtu.be/UnLWRF5rv-0)
+
+The video is intended to be publicly accessible through an unlisted YouTube link.
 
 12. Limitations and Safety
 
 - Patient measurements are simulated.
 - The prototype is intended for educational and research demonstration.
 - It is not a medical diagnostic system and must not be used to make treatment decisions.
-- No trained AI/ML model or live sensor integration is currently implemented.
+- The current implementation does not include a trained AI/ML model or live sensor integration.
 - Future predictive models will require appropriate data, validation, and performance evaluation.
 
 13. Open-Source License
 
-This project is intended to be distributed under the MIT License. Refer to the ""LICENSE"" (./LICENSE) file for the applicable terms.
+This project is distributed under the MIT License. Refer to the "LICENSE" (./LICENSE) file for the applicable terms.
 
 14. Project Status
 
-The prototype is deployed, and its documentation and submission materials are being prepared. The demonstration video remains to be added.
+The BioTwin AI prototype is deployed. The source code, project documentation, architecture diagram, presentation, and demonstration video are included or linked in this repository.
 
 15. Accessibility
 
-The repository is intended to be publicly accessible. The project code, documentation, architecture diagram, presentation, and demonstration links should be checked to ensure they are available without additional permissions.
+The repository is intended to be publicly accessible. The source code, documentation, architecture diagram, presentation, and demonstration video should be checked to ensure that reviewers can access them without additional permissions.
