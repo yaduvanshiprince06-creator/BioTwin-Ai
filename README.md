@@ -1,16 +1,29 @@
- # BioTwin-Ai
+BioTwin AI
 
 Digital Twin for Personalized Health Monitoring
 
-1. Project Overview
+1. Team Details
 
-BioTwin AI is a healthcare-focused digital twin prototype designed to represent an individual's health status using patient parameters and simulated sensor data. It aims to demonstrate how digital representations can support health monitoring and personalized health insights.
+- Project Title: BioTwin AI — Digital Twin for Personalized Health Monitoring
+- Team Name: yaduvanshiprince06
+- Team Leader: Prince Yadav
+- Team Members:
+  1. Prince Yadav — Team Leader
+  2. Sumit Yadav
+  3. Atharv Aggarwal
+  4. Vishesh Shukla
+- Institution: Amity University, Noida
+- Healthcare Use Case: Sleep and Lifestyle Monitoring
 
-2. Problem Statement
+2. Project Overview
 
-Health measurements can be difficult to interpret when viewed separately. A digital twin can bring selected measurements together in one dashboard, helping users explore health patterns and understand changes in simulated patient data.
+BioTwin AI is a healthcare-focused digital twin prototype that demonstrates personalized health and lifestyle monitoring through a dashboard displaying simulated patient measurements. It brings selected health parameters together to help users explore health data and understand potential lifestyle patterns.
 
-3. Healthcare Use Case
+3. Problem Statement
+
+Health measurements can be difficult to interpret when viewed separately. A digital twin approach can combine multiple parameters in one dashboard, making it easier to explore changes in health and lifestyle data over time.
+
+4. Healthcare Use Case
 
 The prototype demonstrates patient monitoring using the following parameters:
 
@@ -19,108 +32,76 @@ The prototype demonstrates patient monitoring using the following parameters:
 - Physical activity
 - Sleep duration
 
-The dashboard uses simulated patient data for demonstration purposes. It is not a medical diagnostic system.
+The current dashboard uses simulated patient data for demonstration purposes. It is an educational prototype, not a medical diagnostic system.
 
-4. Proposed Solution
+5. Proposed Solution
 
-BioTwin AI provides a digital representation of a patient's selected health parameters through a dashboard. The proposed system can be extended with validated predictive models, historical trend analysis, and sensor integrations.
+BioTwin AI presents a digital representation of selected patient health parameters through an interactive dashboard. The current prototype demonstrates simulated measurements, while future development may introduce historical trend analysis, validated predictive models, and integration with wearable devices or health sensors.
 
-5. Technical Stack
+6. Technical Stack
 
 - Programming Language: Python
 - User Interface: Streamlit
-- Data Visualization: To be specified according to the implemented libraries
-- Data Source: Simulated patient data
+- Data Processing: Pandas
+- Data Visualization: Streamlit charts and visualizations
+- Data Source: Simulated patient measurements
+- Deployment: Streamlit Community Cloud
+- Version Control: Git and GitHub
 
-6. AI/ML Model or Framework Details
+7. AI/ML Model and Framework Details
 
-The current implementation must be documented according to the models and frameworks actually integrated. Simulated measurements alone do not constitute a trained AI/ML model.
+The current implementation uses simulated patient measurements and does not include a trained AI/ML model. It demonstrates the presentation and monitoring of health-related parameters rather than making validated predictions.
 
-Future development may explore validated machine-learning models for health trend analysis, subject to appropriate data and evaluation.
+Future development may explore machine-learning models for lifestyle trend analysis, subject to suitable datasets, validation, and evaluation.
 
-7. System Architecture
+8. System Architecture
 
-The proposed workflow is:
+The current prototype follows this workflow:
 
-Patient/Sensor Data → Data Processing → Digital Twin State → Health Dashboard → Trend Visualization
+Patient Profile → Simulated Data Generation → Data Processing (Pandas) → Streamlit Dashboard → Health Parameter Visualization
 
-The current implementation and any planned components should be clearly distinguished in the architecture diagram.
+The architecture diagram illustrates the prototype workflow. Real-time sensor integration and trained predictive models remain potential future enhancements.
 
-8. Team Details
+Architecture Diagram:
+"View Digital Twin Architecture Diagram (PDF)" (https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/Digital%20Twin%20Architecture%20Diagram.pdf)
 
-Project Title: BioTwin AI — Digital Twin for Personalized Health Monitoring
+9. Project Presentation
 
-Team Name: yaduvanshiprince06
-Team Leader: Prince Yadav
-Team Members:
-1. Prince Yadav — Team Leader
-2. Sumit Yadav
-3. Atharv Aggarwal
-4. Vishesh Shukla
+The project presentation provides an overview of the problem statement, proposed solution, technical stack, system architecture, prototype, limitations, and future scope.
 
-Institution: Amity University, Noida
+Presentation:
+"View BioTwin AI Project Presentation (PDF)" (https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/BioTwin_AI_Project_Presentation.pdf)
 
-Healthcare Use Case: Sleep and Lifestyle Monitoring
-
-Project Description:
-BioTwin AI is a healthcare-focused digital twin prototype that brings together simulated patient measurements, including sleep duration, physical activity, heart rate, and blood glucose, in a single dashboard. The project aims to demonstrate how digital health data can support lifestyle monitoring and personalized insights.
-
-9. Demonstration Video
-
-A 15–20-minute demonstration video will be added here after it is recorded and uploaded to YouTube as an unlisted video.
-
-Demo Link:
-
-Live Demo
+10. Live Demonstration
 
 Explore the deployed BioTwin AI prototype:
 
-Live Application: https://biotwin-ai-3uoqxjv3wbnagswfwj9ufn.streamlit.app/
+"Open BioTwin AI Live Application" (https://biotwin-ai-3uoqxjv3wbnagswfwj9ufn.streamlit.app/)
 
-The prototype displays simulated patient measurements for sleep duration, physical activity, heart rate, and blood glucose.
+The application displays simulated patient measurements for heart rate, blood glucose, physical activity, and sleep duration.
 
-Note: This is an educational prototype, not a medical diagnostic system.
+11. Demonstration Video
 
-10. Architecture Diagram
+A 15–20-minute demonstration video will be added after recording and uploading it to YouTube as an unlisted video.
 
-The architecture diagram in PDF/PPT format will be added to this repository.
+Demo Video: To be added.
 
-11. Project Presentation
+12. Limitations and Safety
 
-The project presentation in PDF/PPT format will be added to this repository.
-
-12. Open-Source License
-
-This project is intended to use the MIT License. The LICENSE file must be added to the repository.
-
-13. Limitations and Safety
-
-- Patient measurements are simulated unless explicitly identified otherwise.
+- Patient measurements are simulated.
 - The prototype is intended for educational and research demonstration.
-- It must not be used to diagnose conditions or make treatment decisions.
-- Any future predictive models require appropriate validation.
+- It is not a medical diagnostic system and must not be used to make treatment decisions.
+- No trained AI/ML model or live sensor integration is currently implemented.
+- Future predictive models will require appropriate data, validation, and performance evaluation.
+
+13. Open-Source License
+
+This project is intended to be distributed under the MIT License. Refer to the ""LICENSE"" (./LICENSE) file for the applicable terms.
 
 14. Project Status
 
-Prototype documentation and submission materials are being prepared.
+The prototype is deployed, and its documentation and submission materials are being prepared. The demonstration video remains to be added.
 
 15. Accessibility
 
-The repository is intended to be public. Required documents and demonstration links will be checked for accessibility before submission.
-
-16. System Architecture Diagram
-
-BioTwin AI uses simulated patient data to demonstrate health and lifestyle monitoring.
-
-Workflow:
-Patient Profile → Simulated Data → Python Processing (Pandas) → Streamlit Dashboard
-
-Architecture Diagram
-
-"View the Digital Twin Architecture Diagram" ( https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/Digital%20Twin%20Architecture%20Diagram.pdf)
-
-Note: This prototype currently uses simulated data. It does not include a trained AI/ML model or live sensor integration.
-
-17. Presentation 
-
-View the presentation here ("https://github.com/yaduvanshiprince06-creator/BioTwin-Ai/blob/main/BioTwin_AI_Project_Presentation.pdf")
+The repository is intended to be publicly accessible. The project code, documentation, architecture diagram, presentation, and demonstration links should be checked to ensure they are available without additional permissions.
